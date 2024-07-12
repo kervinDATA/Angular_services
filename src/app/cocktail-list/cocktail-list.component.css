@@ -1,0 +1,12 @@
+.cocktail-item {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px 0;
+    text-align: center;
+  }
+  
+  .cocktail-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
